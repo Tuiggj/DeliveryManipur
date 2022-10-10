@@ -17,7 +17,7 @@ root.render(
           <App />
 
         </PayPalScriptProvider>
-        <App />
+        
       </HelmetProvider>
 
     </StoreProvider>
